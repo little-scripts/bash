@@ -2,7 +2,7 @@
 
 Simple scripts bash.
 
-## Installing
+### Installing
 ```sh
 git clone https://github.com/little-scripts/bash.git
 ```
